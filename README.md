@@ -4,7 +4,7 @@ Nice to meet you, I'm Furkan aka Stankle (or RealStankle sometimes 😉)
 
 ## About Me
 
-- 😶‍🌫️ Self-taught passionate Front-End Developer from Turkiye 🇹🇷
+- 😶‍🌫️ Self-Taught Passionate Front-End Developer from Turkiye 🇹🇷
 - 🧑‍💻 Loves to write JavaScript
 - 🎯 Wants to be a better developer
 - ✍️ Will start writing posts one day
