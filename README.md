@@ -25,7 +25,7 @@ Nice to meet you, I'm Furkan aka Stankle (or RealStankle sometimes 😉)
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="assets/icons/css.svg" alt="css" width="35" height="35"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="assets/icons/bootstrap.svg" alt="bootstrap" width="35" height="35"/></a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="assets/icons/tailwind.svg" alt="tailwindcss" width="35" height="35"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="assets/icons/sass.svg" alt="sass" width="35" height="35"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="assets/icons/sass.svg" alt="sass" width="35" height="35"/></a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="assets/icons/javascript.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="assets/icons/react.svg" alt="react" width="35" height="35"/></a>
 <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="assets/icons/mui.svg" alt="material ui" width="35" height="35"/></a>
